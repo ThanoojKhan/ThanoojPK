@@ -3,7 +3,7 @@
 
 ## 👋 Hey there! I'm Thanooj Khan
 MERN Stack Developer | Mechanical Engineer | Ex-Steel Structural Construction | Ex-Farmer
-#### Exploring, learning, and embracing self-love to the fullest.
+#### Exploring, learning and embracing self-love to the fullest.
 ##
 
 ## 🌐 Connect with me:
