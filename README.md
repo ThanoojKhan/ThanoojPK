@@ -2,7 +2,7 @@
 ---
 
 ## 👋 Hey there! I'm Thanooj Pelamkulangara
-MERN Stack Developer | Mechanical Engineer | Ex-Steel Structural Construction | Ex-Farmer
+MERN Stack Developer | SaaS & Healthcare Systems | Backend-Focused | Production Deployment
 #### Exploring, learning and embracing self-love to the fullest.
 ##
 
@@ -21,6 +21,14 @@ MERN Stack Developer | Mechanical Engineer | Ex-Steel Structural Construction | 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Stripe](https://img.shields.io/badge/stripe-%23677CF6.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/cloudinary-%23344C7F.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Firebase Auth](https://img.shields.io/badge/firebase_auth-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![PM2](https://img.shields.io/badge/pm2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -38,12 +46,6 @@ MERN Stack Developer | Mechanical Engineer | Ex-Steel Structural Construction | 
 ![](https://github-readme-stats.vercel.app/api?username=ThanoojKhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ThanoojKhan&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanoojKhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ThanoojKhan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
